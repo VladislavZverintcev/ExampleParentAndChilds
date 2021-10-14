@@ -27,7 +27,7 @@ namespace ExampleExtention
             //You can do:
             //var circle = new Circle(30);
             //Figure fig = circle;
-            //And if Figure have been not abstract
+            //And if Figure was not abstract
             //Figure f = new Figure();
             //Circle c = f;
         }
